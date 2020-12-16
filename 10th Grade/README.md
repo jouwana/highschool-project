@@ -1,6 +1,4 @@
-![ScreenShot](10 homepage.jpg)
-
-
+![ScreenShot](demo images/10 homepage.jpg)
 
 
 
