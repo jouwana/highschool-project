@@ -17,4 +17,6 @@ this website incorporates these functionalities:
 * session check -> e.g. : unregested user cant enter "cart page", non admin user cant enter "edit accounts" page
 * an "intro" page that show a logo/gif then redirects to the actual homepage
 
-//demo images of webdites and the intro screen can be found in "demo images" folder
+//demo images of the website and the intro screen can be found in "demo images" folder
+
+TO USE WEBSERVICE: run them on your device and update the links in the main website, otherwise the parts of the website that use webservice will crash
