@@ -13,8 +13,8 @@ this website incorporates these functionalities:
 * shop changes prices based on currency of user, default is USD
 * closable Ads on homepage
 * pop up moveable browser for extra information
-* contact us form which sends an email with possible attatchment to the admin
-* session check -> unregested user cant enter "cart page", non admin user cant enter "edit accounts" page
-* an "intro" page that show a logo/gif them redirects to the actual homepage
+* contact us form which sends an email with possible attachment to the admin
+* session check -> e.g. : unregested user cant enter "cart page", non admin user cant enter "edit accounts" page
+* an "intro" page that show a logo/gif then redirects to the actual homepage
 
 //demo images of webdites and the intro screen can be found in "demo images" folder
